@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yasmeen Al-Mufti | Samant Lab</title>
+    <link>https://samantlab.github.io/author/yasmeen-al-mufti/</link>
+      <atom:link href="https://samantlab.github.io/author/yasmeen-al-mufti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yasmeen Al-Mufti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://samantlab.github.io/author/yasmeen-al-mufti/avatar_huce1217ac0e5da30a4d1098fbe314d1ab_310626_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yasmeen Al-Mufti</title>
+      <link>https://samantlab.github.io/author/yasmeen-al-mufti/</link>
+    </image>
+    
+  </channel>
+</rss>

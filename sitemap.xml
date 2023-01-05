@@ -14,11 +14,39 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/publication-type/2/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+    <loc>https://samantlab.github.io/publication-type/1/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/authors/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/publication/samant-2022-interplay/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/publication_types/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/publication/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/rahul-samant/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/source-themes/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tags/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/publication-type/2/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -46,27 +74,7 @@
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/publication_types/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/publication/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/author/rahul-s.-samant/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://samantlab.github.io/publication/johnston-2022-solvent/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/tag/source-themes/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/tags/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -90,18 +98,6 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/author/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://samantlab.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -114,10 +110,25 @@
     <loc>https://samantlab.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://samantlab.github.io/author/devinda-soegianto/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/estelle-wu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/harvey-johnston/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/stephen-cranwell/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/todd-watts/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://samantlab.github.io/tour/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://samantlab.github.io/author/yasmeen-al-mufti/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

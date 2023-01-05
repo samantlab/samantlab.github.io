@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahul Samant | Samant Lab</title>
+    <link>https://samantlab.github.io/author/rahul-samant/</link>
+      <atom:link href="https://samantlab.github.io/author/rahul-samant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rahul Samant</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samantlab.github.io/author/rahul-samant/avatar_hu6e4264f7d24b7c3329405155f1d51c94_156723_270x270_fill_lanczos_center_3.png</url>
+      <title>Rahul Samant</title>
+      <link>https://samantlab.github.io/author/rahul-samant/</link>
+    </image>
+    
+    <item>
+      <title>Interplay between loss of proteostasis and cellular senescence:A spotlight on misfolded protein quality control</title>
+      <link>https://samantlab.github.io/publication/samant-2022-interplay/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/publication/samant-2022-interplay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solvent Precipitation SP3 (SP4) Enhances Recovery for Proteomics Sample Preparation without Magnetic Beads</title>
+      <link>https://samantlab.github.io/publication/johnston-2022-solvent/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/publication/johnston-2022-solvent/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://samantlab.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/publication/preprint/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

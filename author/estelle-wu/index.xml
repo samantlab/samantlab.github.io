@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estelle Wu | Samant Lab</title>
+    <link>https://samantlab.github.io/author/estelle-wu/</link>
+      <atom:link href="https://samantlab.github.io/author/estelle-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Estelle Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://samantlab.github.io/author/estelle-wu/avatar_hu78a161739c5aa21b021319e3a5bb59ae_160169_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Estelle Wu</title>
+      <link>https://samantlab.github.io/author/estelle-wu/</link>
+    </image>
+    
+  </channel>
+</rss>
