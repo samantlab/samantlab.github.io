@@ -5,12 +5,20 @@
     <link>https://samantlab.github.io/author/stephen-cranwell/</link>
       <atom:link href="https://samantlab.github.io/author/stephen-cranwell/index.xml" rel="self" type="application/rss+xml" />
     <description>Stephen Cranwell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samantlab.github.io/author/stephen-cranwell/avatar_hu4aa560af2634400c10d64b6d0fa9789b_302158_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://samantlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Stephen Cranwell</title>
       <link>https://samantlab.github.io/author/stephen-cranwell/</link>
     </image>
+    
+    <item>
+      <title>Dysregulated proteostasis: mechanisms and links to aging</title>
+      <link>https://samantlab.github.io/publication/al-mufti_dysregulated_2022/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/publication/al-mufti_dysregulated_2022/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -28,56 +28,91 @@
     </item>
     
     <item>
-      <title>Interplay between loss of proteostasis and cellular senescence:A spotlight on misfolded protein quality control</title>
-      <link>https://samantlab.github.io/publication/samant-2022-interplay/</link>
+      <title>HSP90 SEC-MS paper is online!</title>
+      <link>https://samantlab.github.io/post/2022-12-20-secms-accepted/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/post/2022-12-20-secms-accepted/</guid>
+      <description>&lt;p&gt;Just in time for the holidays, our HSP90 size-exclusion chromatography&amp;ndash;based mass spectrometry (SEC-MS) manuscript is out today in Molecular &amp;amp; Cellular Proteomics.&lt;/p&gt;
+&lt;p&gt;Thanks to Estelle &amp;amp; Harvey for doing the experiments for the revision that got it over the line. Special congrats to Estelle&amp;mdash;her first paper!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Native size-exclusion chromatography--based mass spectrometry reveals new components of the early Heat Shock Protein 90 inhibition response among limited global changes</title>
+      <link>https://samantlab.github.io/publication/samant_native_2022/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/publication/samant_native_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplay between loss of proteostasis and cellular senescence: A spotlight on misfolded protein quality control</title>
+      <link>https://samantlab.github.io/publication/samant_interplay_2022/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/publication/samant-2022-interplay/</guid>
+      <guid>https://samantlab.github.io/publication/samant_interplay_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dysregulated proteostasis: mechanisms and links to aging</title>
+      <link>https://samantlab.github.io/publication/al-mufti_dysregulated_2022/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/publication/al-mufti_dysregulated_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solvent Precipitation SP3 (SP4) Enhances Recovery for Proteomics Sample Preparation without Magnetic Beads</title>
-      <link>https://samantlab.github.io/publication/johnston-2022-solvent/</link>
+      <link>https://samantlab.github.io/publication/johnston_solvent_2022/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/publication/johnston-2022-solvent/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://samantlab.github.io/publication/johnston_solvent_2022/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://samantlab.github.io/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Harvey wins Best Poster Award at BSPR 2022</title>
+      <link>https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/</guid>
+      <description>&lt;p&gt;Congrats to Harvey E. Johnston for winning a Best Poster Award at the &lt;a href=&#34;https://www2.bioch.ox.ac.uk/bspr2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 Annual Meeting of the British Society for Proteome Research&lt;/a&gt;, held in St. Anne&amp;rsquo;s College at Oxford University.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been quite the week for Harvey. The poster presented his SP4 proteomics sample preparation method to the proteomics community for the first time, just a few days after the manuscript was accepted in Analytical Chemistry.&lt;/p&gt;
+&lt;p&gt;As well as disseminating the research, Harvey was also giving away eppendorfs filled with acetonitrile-washed glass beads, ready for those wishing to give SP4 a go in their next proteomics sample preps!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image credit: BSPR&#34; srcset=&#34;
+               /post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hu4fc0f2c9e916ac065e1a2fe6ed06f026_371120_6a6134c5682686c837a187c209795980.webp 400w,
+               /post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hu4fc0f2c9e916ac065e1a2fe6ed06f026_371120_0f57705cb25e8d8ba4156bf70a1809a2.webp 760w,
+               /post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hu4fc0f2c9e916ac065e1a2fe6ed06f026_371120_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hu4fc0f2c9e916ac065e1a2fe6ed06f026_371120_6a6134c5682686c837a187c209795980.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;502&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Harvey&amp;rsquo;s attendance at the meeting was generously funded by a Travel Grant from the &lt;a href=&#34;https://www.babraham.ac.uk/work-and-study/post-doctoral-programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Babraham Institute&amp;rsquo;s Postdoc Society&lt;/a&gt;. Thanks!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://samantlab.github.io/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://samantlab.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Alternative systems for misfolded protein clearance: life beyond the proteasome</title>
+      <link>https://samantlab.github.io/publication/johnston_alternative_2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/publication/johnston_alternative_2021/</guid>
+      <description></description>
     </item>
     
     <item>

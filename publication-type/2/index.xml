@@ -5,7 +5,7 @@
     <link>https://samantlab.github.io/publication-type/2/</link>
       <atom:link href="https://samantlab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samantlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,17 +13,27 @@
     </image>
     
     <item>
+      <title>Native size-exclusion chromatography--based mass spectrometry reveals new components of the early Heat Shock Protein 90 inhibition response among limited global changes</title>
+      <link>https://samantlab.github.io/publication/samant_native_2022/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/publication/samant_native_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Solvent Precipitation SP3 (SP4) Enhances Recovery for Proteomics Sample Preparation without Magnetic Beads</title>
-      <link>https://samantlab.github.io/publication/johnston-2022-solvent/</link>
+      <link>https://samantlab.github.io/publication/johnston_solvent_2022/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/publication/johnston-2022-solvent/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://samantlab.github.io/publication/johnston_solvent_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative systems for misfolded protein clearance: life beyond the proteasome</title>
+      <link>https://samantlab.github.io/publication/johnston_alternative_2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/publication/johnston_alternative_2021/</guid>
+      <description></description>
     </item>
     
   </channel>
