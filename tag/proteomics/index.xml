@@ -5,7 +5,7 @@
     <link>https://samantlab.github.io/tag/proteomics/</link>
       <atom:link href="https://samantlab.github.io/tag/proteomics/index.xml" rel="self" type="application/rss+xml" />
     <description>proteomics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samantlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>proteomics</title>
@@ -13,12 +13,20 @@
     </image>
     
     <item>
+      <title>Decoding ubiquitin chain signals in physiologic and stressed states</title>
+      <link>https://samantlab.github.io/research/ubiquitin-altpqc/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/research/ubiquitin-altpqc/</guid>
+      <description>&lt;p&gt;Linkage-specific ubiquitylation in misfolded protein triage under conditions where the proteasome is overwhelmed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>HSP90 SEC-MS paper is online!</title>
       <link>https://samantlab.github.io/post/2022-12-20-secms-accepted/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://samantlab.github.io/post/2022-12-20-secms-accepted/</guid>
       <description>&lt;p&gt;Just in time for the holidays, our HSP90 size-exclusion chromatography&amp;ndash;based mass spectrometry (SEC-MS) manuscript is &lt;a href=&#34;https://doi.org/10.1016/j.mcpro.2022.100485&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;out today in Molecular &amp;amp; Cellular Proteomics&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Thanks to &lt;a href=&#34;https://samantlab.github.io/author/estelle-wu/&#34;&gt;Estelle&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://samantlab.github.io/author/harvey-johnston/&#34;&gt;Harvey&lt;/a&gt; for doing the experiments for the revision that got it over the line. Special congrats to Estelle&amp;mdash;her first paper!&lt;/p&gt;</description>
+&lt;p&gt;Thanks to Samant Lab co-authors &lt;a href=&#34;https://samantlab.github.io/author/estelle-wu/&#34;&gt;Estelle&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://samantlab.github.io/author/harvey-johnston/&#34;&gt;Harvey&lt;/a&gt; for doing the experiments for the revision that got it over the line. Special congrats to Estelle&amp;mdash;her first paper!&lt;/p&gt;</description>
     </item>
     
     <item>

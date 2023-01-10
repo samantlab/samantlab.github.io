@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://samantlab.github.io/author/yasmeen-al-mufti/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/stephen-cranwell/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/harvey-johnston/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/richard-odle/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/devinda-soegianto/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/todd-watts/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/estelle-wu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://samantlab.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,12 +35,64 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://samantlab.github.io/research/ubiquitin-altpqc/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/devinda-soegianto/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://samantlab.github.io/tag/estelle-wu/</loc>
-    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/tag/harvey-johnston/</loc>
-    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/proteomics/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/proteostasis/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/research/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/richard-odle/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/senescence/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/stephen-cranwell/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tags/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/todd-watts/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/ubiquitin/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/research/proteostasis-senescence/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/yasmeen-al-mufti/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/tag/hsp90/</loc>
@@ -31,14 +104,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/post/</loc>
-    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/tag/proteomics/</loc>
-    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/tags/</loc>
     <lastmod>2022-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -65,40 +130,16 @@
     <loc>https://samantlab.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/author/devinda-soegianto/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/author/estelle-wu/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/author/harvey-johnston/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/research/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://samantlab.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/author/rahul-samant/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/author/richard-odle/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://samantlab.github.io/publication/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/author/stephen-cranwell/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/author/todd-watts/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://samantlab.github.io/tour/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/author/yasmeen-al-mufti/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

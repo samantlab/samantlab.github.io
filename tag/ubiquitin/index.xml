@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubiquitin | Samant Lab</title>
+    <link>https://samantlab.github.io/tag/ubiquitin/</link>
+      <atom:link href="https://samantlab.github.io/tag/ubiquitin/index.xml" rel="self" type="application/rss+xml" />
+    <description>ubiquitin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samantlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>ubiquitin</title>
+      <link>https://samantlab.github.io/tag/ubiquitin/</link>
+    </image>
+    
+    <item>
+      <title>Decoding ubiquitin chain signals in physiologic and stressed states</title>
+      <link>https://samantlab.github.io/research/ubiquitin-altpqc/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/research/ubiquitin-altpqc/</guid>
+      <description>&lt;p&gt;Linkage-specific ubiquitylation in misfolded protein triage under conditions where the proteasome is overwhelmed.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

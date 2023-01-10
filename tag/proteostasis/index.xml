@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Proteostasis | Samant Lab</title>
+    <title>proteostasis | Samant Lab</title>
     <link>https://samantlab.github.io/tag/proteostasis/</link>
       <atom:link href="https://samantlab.github.io/tag/proteostasis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Proteostasis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <description>proteostasis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samantlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Proteostasis</title>
+      <title>proteostasis</title>
       <link>https://samantlab.github.io/tag/proteostasis/</link>
     </image>
     
     <item>
-      <title>Interplay between loss of proteostasis and cellular senescence: A spotlight on misfolded protein quality control</title>
-      <link>https://samantlab.github.io/publication/samant_interplay_2022/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/publication/samant_interplay_2022/</guid>
-      <description></description>
+      <title>Decoding ubiquitin chain signals in physiologic and stressed states</title>
+      <link>https://samantlab.github.io/research/ubiquitin-altpqc/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/research/ubiquitin-altpqc/</guid>
+      <description>&lt;p&gt;Linkage-specific ubiquitylation in misfolded protein triage under conditions where the proteasome is overwhelmed.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Dysregulated proteostasis: mechanisms and links to aging</title>
-      <link>https://samantlab.github.io/publication/al-mufti_dysregulated_2022/</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/publication/al-mufti_dysregulated_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alternative systems for misfolded protein clearance: life beyond the proteasome</title>
-      <link>https://samantlab.github.io/publication/johnston_alternative_2021/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/publication/johnston_alternative_2021/</guid>
-      <description></description>
+      <title>Understanding the interplay between loss of proteostasis and cellular senescence</title>
+      <link>https://samantlab.github.io/research/proteostasis-senescence/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/research/proteostasis-senescence/</guid>
+      <description>&lt;p&gt;Loss of proteostasis and cellular senescence&amp;mdash;two well-established features of ageing.&lt;/p&gt;</description>
     </item>
     
   </channel>
