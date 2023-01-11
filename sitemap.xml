@@ -35,7 +35,11 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/research/ubiquitin-altpqc/</loc>
+    <loc>https://samantlab.github.io/current-research/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/current-research/ubiquitin-altpqc/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -56,10 +60,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/tag/proteostasis/</loc>
-    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/research/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -87,7 +87,7 @@
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/research/proteostasis-senescence/</loc>
+    <loc>https://samantlab.github.io/current-research/proteostasis-senescence/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -95,15 +95,23 @@
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://samantlab.github.io/authors/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://samantlab.github.io/tag/hsp90/</loc>
     <lastmod>2022-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/post/2022-12-20-secms-accepted/</loc>
+    <loc>https://samantlab.github.io/latest-news/2022-12-20-secms-accepted/</loc>
     <lastmod>2022-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/post/</loc>
+    <loc>https://samantlab.github.io/latest-news/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/author/rahul-samant/</loc>
     <lastmod>2022-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -111,7 +119,7 @@
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/</loc>
+    <loc>https://samantlab.github.io/latest-news/2022-07-06-harvey-best-poster-bspr/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -124,19 +132,19 @@
     <loc>https://samantlab.github.io/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/authors/</loc>
+    <loc>https://samantlab.github.io/post/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/publication/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/research/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/publication_types/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/author/rahul-samant/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/publication/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/tour/</loc>

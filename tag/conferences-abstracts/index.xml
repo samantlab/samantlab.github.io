@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>conferences abstracts | Samant Lab</title>
+    <title>Conferences abstracts | Samant Lab</title>
     <link>https://samantlab.github.io/tag/conferences-abstracts/</link>
       <atom:link href="https://samantlab.github.io/tag/conferences-abstracts/index.xml" rel="self" type="application/rss+xml" />
-    <description>conferences abstracts</description>
+    <description>Conferences abstracts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samantlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>conferences abstracts</title>
+      <title>Conferences abstracts</title>
       <link>https://samantlab.github.io/tag/conferences-abstracts/</link>
     </image>
     
     <item>
       <title>Harvey wins Best Poster Award at BSPR 2022</title>
-      <link>https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/</link>
+      <link>https://samantlab.github.io/latest-news/2022-07-06-harvey-best-poster-bspr/</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/</guid>
+      <guid>https://samantlab.github.io/latest-news/2022-07-06-harvey-best-poster-bspr/</guid>
       <description>&lt;p&gt;Congrats to &lt;a href=&#34;https://samantlab.github.io/author/harvey-johnston/&#34;&gt;Harvey Johnston&lt;/a&gt; for winning a Best Poster Award at the &lt;a href=&#34;https://www2.bioch.ox.ac.uk/bspr2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 Annual Meeting of the British Society for Proteome Research&lt;/a&gt;, held in St. Anne&amp;rsquo;s College at Oxford University.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s been quite the week for Harvey. The poster presented his SP4 proteomics sample preparation method to the proteomics community for the first time, just a few days after the manuscript was accepted in Analytical Chemistry.&lt;/p&gt;
 &lt;p&gt;As well as disseminating the research, Harvey was also giving away eppendorfs filled with acetonitrile-washed glass beads, ready for those wishing to give SP4 a go in their next proteomics sample preps!&lt;/p&gt;
@@ -39,10 +39,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image credit: BSPR&#34; srcset=&#34;
-               /post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_9a447cf2d72cb7487dd49ab3d3712a60.webp 400w,
-               /post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_6ab43036c4e80f4da5b28166b73e51a7.webp 760w,
-               /post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_9a447cf2d72cb7487dd49ab3d3712a60.webp&#34;
+               /latest-news/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_9a447cf2d72cb7487dd49ab3d3712a60.webp 400w,
+               /latest-news/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_6ab43036c4e80f4da5b28166b73e51a7.webp 760w,
+               /latest-news/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://samantlab.github.io/latest-news/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_9a447cf2d72cb7487dd49ab3d3712a60.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

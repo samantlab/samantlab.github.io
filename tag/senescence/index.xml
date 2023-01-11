@@ -1,23 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>senescence | Samant Lab</title>
+    <title>Senescence | Samant Lab</title>
     <link>https://samantlab.github.io/tag/senescence/</link>
       <atom:link href="https://samantlab.github.io/tag/senescence/index.xml" rel="self" type="application/rss+xml" />
-    <description>senescence</description>
+    <description>Senescence</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samantlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>senescence</title>
+      <title>Senescence</title>
       <link>https://samantlab.github.io/tag/senescence/</link>
     </image>
     
     <item>
       <title>Understanding the interplay between loss of proteostasis and cellular senescence</title>
-      <link>https://samantlab.github.io/research/proteostasis-senescence/</link>
+      <link>https://samantlab.github.io/current-research/proteostasis-senescence/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/research/proteostasis-senescence/</guid>
-      <description>&lt;p&gt;Loss of proteostasis and cellular senescence&amp;mdash;two well-established features of ageing.&lt;/p&gt;</description>
+      <guid>https://samantlab.github.io/current-research/proteostasis-senescence/</guid>
+      <description>&lt;p&gt;Loss of proteostasis and cellular senescence are two well-established hallmarks of &amp;ldquo;normal&amp;rdquo; ageing, and are linked to almost all major ageing-associated chronic diseases.
+We are systematically investigating the inter-dependence of these two ageing hallmarks, with the goal of identifying proteostasis network vulnerabilities that could be exploited therapeutically to modulate the senescent cellular state.&lt;/p&gt;
+&lt;p&gt;Current projects on the proteostasis&amp;ndash;senescence axis include:&lt;/p&gt;
+&lt;h4 id=&#34;re-wiring-of-misfolded-protein-clearance-pathways-in-senescent-cells&#34;&gt;Re-wiring of misfolded protein clearance pathways in senescent cells&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/yasmeen-al-mufti&#34;&gt;Yasmeen Al-Mufti&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.qmul.ac.uk/blizard/all-staff/profiles/cleo-bishop.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cleo Bishop&lt;/a&gt;; &lt;a href=&#34;https://www.ceb-mng.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gabriele Kaminski-Schierle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cell-non-autonomous-stress-in-senescent-cell-environments&#34;&gt;Cell non-autonomous stress in senescent cell environments&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/stephen-cranwell&#34;&gt;Stephen Cranwell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.munoz-espinlab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Munoz-Espin&lt;/a&gt;; &lt;a href=&#34;https://www.mrc-tox.cam.ac.uk/research/research-groups/mennella-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vito Menella&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;targeting-proteostasis-network-vulnerabilities-in-senescent-cells&#34;&gt;Targeting proteostasis network vulnerabilities in senescent cells&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/devinda-soegianto&#34;&gt;Devinda Soegianto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.cimr.cam.ac.uk/staff/professor-stefan-marciniak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Marciniak&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;role-of-stress-responses-in-senolytic-efficacy&#34;&gt;Role of stress responses in senolytic efficacy&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/todd-watts&#34;&gt;Todd Watts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-PI: Benedict Cross @ &lt;a href=&#34;https://www.phoremost.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phoremost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.naritalab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masashi Narita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

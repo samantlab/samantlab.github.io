@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current-researches | Samant Lab</title>
+    <link>https://samantlab.github.io/current-research/</link>
+      <atom:link href="https://samantlab.github.io/current-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current-researches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samantlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Current-researches</title>
+      <link>https://samantlab.github.io/current-research/</link>
+    </image>
+    
+    <item>
+      <title>Decoding ubiquitin chain signals in physiologic and stressed states</title>
+      <link>https://samantlab.github.io/current-research/ubiquitin-altpqc/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/current-research/ubiquitin-altpqc/</guid>
+      <description>&lt;p&gt;Although Lys48-linked ubiquitin is the canonical signal for protein clearance by the proteasome, &amp;lsquo;alternative&amp;rsquo; ubiquitin signals play critical yet poorly-characterised roles in misfolded protein clearance&amp;mdash;especially under acute stress.
+Using linkage-specific ubiquitin probes and perturbation tools, we are uncovering how these additional ubiquitin signalling events maintain proteome robustness in a range of physiologic and stressed cellular contexts.&lt;/p&gt;
+&lt;p&gt;Current projects on ubiquitin signalling include:&lt;/p&gt;
+&lt;h4 id=&#34;impact-of-specific-ubiquitin-linkages-in-misfolded-protein-clearance&#34;&gt;Impact of specific ubiquitin linkages in misfolded protein clearance&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Leads: &lt;a href=&#34;https://samantlab.github.io/author/harvey-johnston&#34;&gt;Harvey Johnston&lt;/a&gt;; &lt;a href=&#34;https://samantlab.github.io/author/richard-odle&#34;&gt;Richard Odle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.kulathulab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yogesh Kulathu&lt;/a&gt;; &lt;a href=&#34;https://www.imb.de/research/ulrich/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helle Ulrich&lt;/a&gt;; &lt;a href=&#34;https://www.ceb-mng.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gabriele Kaminski-Schierle&lt;/a&gt;; &lt;a href=&#34;https://www.ppu.mrc.ac.uk/research/principal-investigator/kirby-swatek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kirby Swatek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;nascent-proteome-quality-control-during-dendritic-cell-activation&#34;&gt;Nascent proteome quality control during dendritic cell activation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/estelle-wu&#34;&gt;Estelle Wu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-PI: &lt;a href=&#34;https://www.babraham.ac.uk/our-research/immunology/michelle-linterman&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michelle Linterman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.beatson.gla.ac.uk/Cancer-Metabolism-Growth-and-Survival/edward-roberts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ed Roberts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Understanding the interplay between loss of proteostasis and cellular senescence</title>
+      <link>https://samantlab.github.io/current-research/proteostasis-senescence/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://samantlab.github.io/current-research/proteostasis-senescence/</guid>
+      <description>&lt;p&gt;Loss of proteostasis and cellular senescence are two well-established hallmarks of &amp;ldquo;normal&amp;rdquo; ageing, and are linked to almost all major ageing-associated chronic diseases.
+We are systematically investigating the inter-dependence of these two ageing hallmarks, with the goal of identifying proteostasis network vulnerabilities that could be exploited therapeutically to modulate the senescent cellular state.&lt;/p&gt;
+&lt;p&gt;Current projects on the proteostasis&amp;ndash;senescence axis include:&lt;/p&gt;
+&lt;h4 id=&#34;re-wiring-of-misfolded-protein-clearance-pathways-in-senescent-cells&#34;&gt;Re-wiring of misfolded protein clearance pathways in senescent cells&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/yasmeen-al-mufti&#34;&gt;Yasmeen Al-Mufti&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.qmul.ac.uk/blizard/all-staff/profiles/cleo-bishop.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cleo Bishop&lt;/a&gt;; &lt;a href=&#34;https://www.ceb-mng.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gabriele Kaminski-Schierle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cell-non-autonomous-stress-in-senescent-cell-environments&#34;&gt;Cell non-autonomous stress in senescent cell environments&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/stephen-cranwell&#34;&gt;Stephen Cranwell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.munoz-espinlab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Munoz-Espin&lt;/a&gt;; &lt;a href=&#34;https://www.mrc-tox.cam.ac.uk/research/research-groups/mennella-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vito Menella&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;targeting-proteostasis-network-vulnerabilities-in-senescent-cells&#34;&gt;Targeting proteostasis network vulnerabilities in senescent cells&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/devinda-soegianto&#34;&gt;Devinda Soegianto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.cimr.cam.ac.uk/staff/professor-stefan-marciniak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Marciniak&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;role-of-stress-responses-in-senolytic-efficacy&#34;&gt;Role of stress responses in senolytic efficacy&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/todd-watts&#34;&gt;Todd Watts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-PI: Benedict Cross @ &lt;a href=&#34;https://www.phoremost.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phoremost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.naritalab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masashi Narita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

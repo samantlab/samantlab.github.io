@@ -1,39 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>proteomics | Samant Lab</title>
+    <title>Proteomics | Samant Lab</title>
     <link>https://samantlab.github.io/tag/proteomics/</link>
       <atom:link href="https://samantlab.github.io/tag/proteomics/index.xml" rel="self" type="application/rss+xml" />
-    <description>proteomics</description>
+    <description>Proteomics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samantlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>proteomics</title>
+      <title>Proteomics</title>
       <link>https://samantlab.github.io/tag/proteomics/</link>
     </image>
     
     <item>
       <title>Decoding ubiquitin chain signals in physiologic and stressed states</title>
-      <link>https://samantlab.github.io/research/ubiquitin-altpqc/</link>
+      <link>https://samantlab.github.io/current-research/ubiquitin-altpqc/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/research/ubiquitin-altpqc/</guid>
-      <description>&lt;p&gt;Linkage-specific ubiquitylation in misfolded protein triage under conditions where the proteasome is overwhelmed.&lt;/p&gt;</description>
+      <guid>https://samantlab.github.io/current-research/ubiquitin-altpqc/</guid>
+      <description>&lt;p&gt;Although Lys48-linked ubiquitin is the canonical signal for protein clearance by the proteasome, &amp;lsquo;alternative&amp;rsquo; ubiquitin signals play critical yet poorly-characterised roles in misfolded protein clearance&amp;mdash;especially under acute stress.
+Using linkage-specific ubiquitin probes and perturbation tools, we are uncovering how these additional ubiquitin signalling events maintain proteome robustness in a range of physiologic and stressed cellular contexts.&lt;/p&gt;
+&lt;p&gt;Current projects on ubiquitin signalling include:&lt;/p&gt;
+&lt;h4 id=&#34;impact-of-specific-ubiquitin-linkages-in-misfolded-protein-clearance&#34;&gt;Impact of specific ubiquitin linkages in misfolded protein clearance&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Leads: &lt;a href=&#34;https://samantlab.github.io/author/harvey-johnston&#34;&gt;Harvey Johnston&lt;/a&gt;; &lt;a href=&#34;https://samantlab.github.io/author/richard-odle&#34;&gt;Richard Odle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.kulathulab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yogesh Kulathu&lt;/a&gt;; &lt;a href=&#34;https://www.imb.de/research/ulrich/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helle Ulrich&lt;/a&gt;; &lt;a href=&#34;https://www.ceb-mng.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gabriele Kaminski-Schierle&lt;/a&gt;; &lt;a href=&#34;https://www.ppu.mrc.ac.uk/research/principal-investigator/kirby-swatek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kirby Swatek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;nascent-proteome-quality-control-during-dendritic-cell-activation&#34;&gt;Nascent proteome quality control during dendritic cell activation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Lead: &lt;a href=&#34;https://samantlab.github.io/author/estelle-wu&#34;&gt;Estelle Wu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-PI: &lt;a href=&#34;https://www.babraham.ac.uk/our-research/immunology/michelle-linterman&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michelle Linterman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Collaborators: &lt;a href=&#34;https://www.beatson.gla.ac.uk/Cancer-Metabolism-Growth-and-Survival/edward-roberts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ed Roberts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>HSP90 SEC-MS paper is online!</title>
-      <link>https://samantlab.github.io/post/2022-12-20-secms-accepted/</link>
+      <link>https://samantlab.github.io/latest-news/2022-12-20-secms-accepted/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/post/2022-12-20-secms-accepted/</guid>
+      <guid>https://samantlab.github.io/latest-news/2022-12-20-secms-accepted/</guid>
       <description>&lt;p&gt;Just in time for the holidays, our HSP90 size-exclusion chromatography&amp;ndash;based mass spectrometry (SEC-MS) manuscript is &lt;a href=&#34;https://doi.org/10.1016/j.mcpro.2022.100485&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;out today in Molecular &amp;amp; Cellular Proteomics&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thanks to Samant Lab co-authors &lt;a href=&#34;https://samantlab.github.io/author/estelle-wu/&#34;&gt;Estelle&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://samantlab.github.io/author/harvey-johnston/&#34;&gt;Harvey&lt;/a&gt; for doing the experiments for the revision that got it over the line. Special congrats to Estelle&amp;mdash;her first paper!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Harvey wins Best Poster Award at BSPR 2022</title>
-      <link>https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/</link>
+      <link>https://samantlab.github.io/latest-news/2022-07-06-harvey-best-poster-bspr/</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/</guid>
+      <guid>https://samantlab.github.io/latest-news/2022-07-06-harvey-best-poster-bspr/</guid>
       <description>&lt;p&gt;Congrats to &lt;a href=&#34;https://samantlab.github.io/author/harvey-johnston/&#34;&gt;Harvey Johnston&lt;/a&gt; for winning a Best Poster Award at the &lt;a href=&#34;https://www2.bioch.ox.ac.uk/bspr2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 Annual Meeting of the British Society for Proteome Research&lt;/a&gt;, held in St. Anne&amp;rsquo;s College at Oxford University.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s been quite the week for Harvey. The poster presented his SP4 proteomics sample preparation method to the proteomics community for the first time, just a few days after the manuscript was accepted in Analytical Chemistry.&lt;/p&gt;
 &lt;p&gt;As well as disseminating the research, Harvey was also giving away eppendorfs filled with acetonitrile-washed glass beads, ready for those wishing to give SP4 a go in their next proteomics sample preps!&lt;/p&gt;
@@ -56,10 +69,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image credit: BSPR&#34; srcset=&#34;
-               /post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_9a447cf2d72cb7487dd49ab3d3712a60.webp 400w,
-               /post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_6ab43036c4e80f4da5b28166b73e51a7.webp 760w,
-               /post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://samantlab.github.io/post/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_9a447cf2d72cb7487dd49ab3d3712a60.webp&#34;
+               /latest-news/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_9a447cf2d72cb7487dd49ab3d3712a60.webp 400w,
+               /latest-news/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_6ab43036c4e80f4da5b28166b73e51a7.webp 760w,
+               /latest-news/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://samantlab.github.io/latest-news/2022-07-06-harvey-best-poster-bspr/harvey_collecting_prize_hua6f6047981beb5b15a187cfaf7c720a8_361013_9a447cf2d72cb7487dd49ab3d3712a60.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
