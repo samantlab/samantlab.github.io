@@ -23,18 +23,6 @@
     <loc>https://samantlab.github.io/author/estelle-wu/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samantlab.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://samantlab.github.io/current-research/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -67,6 +55,10 @@
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://samantlab.github.io/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://samantlab.github.io/tag/senescence/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -95,10 +87,6 @@
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/authors/</loc>
-    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://samantlab.github.io/tag/hsp90/</loc>
     <lastmod>2022-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -111,8 +99,28 @@
     <lastmod>2022-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/author/rahul-samant/</loc>
-    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+    <loc>https://samantlab.github.io/tag/book-chapter/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/hallmarks-of-ageing/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/rahul-samant/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/latest-news/2022-10-28-proteostasis-ageing-chapter/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/tag/sp4/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/latest-news/2022-07-18-sp4-manuscript-out/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/tag/conferences-abstracts/</loc>
@@ -141,13 +149,19 @@
     <loc>https://samantlab.github.io/research/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://samantlab.github.io/resources/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samantlab.github.io/authors/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://samantlab.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samantlab.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samantlab.github.io/tour/</loc>
+    <loc>https://samantlab.github.io/author/rahul-samant/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
