@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baptiste Piguet | Samant Lab</title>
+    <link>https://samantlab.github.io/author/baptiste-piguet/</link>
+      <atom:link href="https://samantlab.github.io/author/baptiste-piguet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Baptiste Piguet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://samantlab.github.io/author/baptiste-piguet/avatar_hu01608c793fb05d6fd05c3a5f5f25b07d_27287_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Baptiste Piguet</title>
+      <link>https://samantlab.github.io/author/baptiste-piguet/</link>
+    </image>
+    
+  </channel>
+</rss>
